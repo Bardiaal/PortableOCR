@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4800</color>
+    <color name="colorPrimaryDark">#632800</color>
+    <color name="colorAccent">#943900</color>
+    <color name="textInputLayoutColor">#FFC9B4</color>
+    <color name="homeLayout">#FFE7DD</color>
+    <color name="secondaryTexts">#1B1B1B</color>
+    <color name="historyItem">#FFA686</color>
+</resources>
